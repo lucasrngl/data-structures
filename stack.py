@@ -1,6 +1,9 @@
 # Stack implementation
 
+# Stack complexity: O(1) - push and pop methods in stack are always constant
+
 class Stack:
+
     # Creating a stack
     def __init__(self):
         self.items = []
