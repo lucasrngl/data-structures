@@ -1,5 +1,7 @@
 # Queue implementation
 
+# Queue complexity: O(1) - enqueue and dequeue methods in queue are always constant
+
 class Queue:
 
     # Creating a queue
